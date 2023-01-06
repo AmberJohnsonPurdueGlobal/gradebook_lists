@@ -5,6 +5,6 @@ Using the following methods:
 .remove()
 .append()
 
-and using index inserts such as:
+and using indexing such as:
 ([][]) for locating objects within the list
 ([-1][-1]) always resulting in the last item of the latest list
